@@ -1,0 +1,19 @@
+/*
+body style
+*/
+body {
+	background-image: url(../img/background.png);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100%;
+}
+body .logo {
+	float: left;
+	margin-top: 55px;
+	margin-left: 65px;
+	display: inline-block;
+}
+body .contacts {
+	
+}
