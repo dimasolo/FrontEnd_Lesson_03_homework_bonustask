@@ -8,12 +8,9 @@ body {
     background-position: center;
     background-size: 100%;
 }
-body .logo {
-	float: left;
+.logo {
 	margin-top: 55px;
-	margin-left: 65px;
 	display: inline-block;
+	text-align: center;
 }
-body .contacts {
-	
-}
+
